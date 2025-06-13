@@ -1,0 +1,50 @@
+P1 Nikita Sidorov Sergeevich AWPER lang1 lang3 2598 72.9 0.87 42.7 11997.1 1.11 82.5 1 0 0 0 1 0
+P2 Alex Smith Petrovich RIFLER lang9 lang7 2467 74.6 1.17 41.8 8186.7 0.92 71.6 1 1 1 1 1 0
+P3 Daniil Smith Alexeevich LURKER lang1 2283 74.6 1.15 59.4 11513.7 1.04 75.6 0 1 1 0 1 0
+P4 Daniil Ivanov Petrovich RIFLER lang10 lang4 2744 64.9 1.19 54.6 10489.0 1.27 98.5 1 0 1 0 0 1
+P5 Nikita Petrov Alexeevich RIFLER lang1 lang4 2578 51.5 0.85 49.6 10544.7 0.93 74.9 0 0 0 1 1 0
+P6 Petr Johnson Petrovich RIFLER lang4 lang9 2240 60.2 0.84 30.5 11120.1 1.26 90.6 0 1 0 0 1 1
+P7 Alex Smith Petrovich RIFLER lang3 2817 58.0 1.08 48.4 11929.0 1.16 71.2 0 1 0 0 1 1
+P8 Ivan Ivanov Alexeevich RIFLER lang6 lang10 2608 51.0 0.97 46.7 10725.7 1.28 94.6 1 0 0 0 1 0
+P9 Petr Ivanov Petrovich RIFLER lang4 lang9 2477 74.9 0.84 49.0 11847.8 0.95 73.2 0 0 1 0 0 0
+P10 Petr Petrov Alexeevich RIFLER lang8 lang7 2849 58.0 0.95 43.9 11899.6 1.01 96.2 0 1 0 0 0 1
+P11 Petr Smith Petrovich LURKER lang4 2837 56.4 0.95 53.4 10614.2 0.99 88.8 1 1 0 1 1 1
+P12 Daniil Ivanov Petrovich LURKER lang8 lang7 2597 50.2 1.18 48.0 8262.2 1.0 98.5 0 1 0 1 1 0
+P13 Daniil Smith Sergeevich LURKER lang5 1913 72.5 1.08 44.9 10200.5 1.05 96.6 1 1 1 1 0 0
+P14 Nikita Sidorov Sergeevich AWPER lang8 1898 63.9 1.04 44.1 7189.3 1.18 75.2 0 0 1 0 1 0
+P15 Petr Sidorov Sergeevich AWPER lang10 2750 72.0 0.81 35.6 8660.7 1.26 89.9 1 1 0 1 0 1
+P16 Alex Smith Sergeevich LURKER lang6 lang8 2092 71.0 0.97 55.7 9974.2 1.14 86.9 1 0 1 0 0 0
+P17 Ivan Petrov Sergeevich IGL lang10 lang8 2608 53.7 1.02 50.1 11474.0 0.97 78.0 1 1 0 0 1 0
+P18 Ivan Johnson Sergeevich AWPER lang1 lang7 2992 78.5 0.99 49.1 9549.5 1.13 76.1 1 0 1 1 0 1
+P19 Nikita Ivanov Sergeevich RIFLER lang4 2307 70.4 1.09 55.9 9349.9 1.04 79.0 0 0 1 0 0 0
+P20 Nikita Sidorov Alexeevich RIFLER lang9 lang3 2208 75.8 1.11 35.9 8078.4 1.15 92.2 0 1 1 1 1 1
+P21 Daniil Petrov Petrovich LURKER lang8 1863 54.1 1.1 31.9 8064.1 1.07 88.8 1 1 1 0 0 0
+P22 Daniil Smith Sergeevich LURKER lang5 lang8 2921 51.4 1.2 30.2 7605.1 1.01 89.2 0 1 1 0 0 0
+P23 Daniil Smith Alexeevich RIFLER lang9 2278 54.0 1.04 31.7 9562.4 1.17 74.8 1 0 0 0 1 1
+P24 Nikita Ivanov Sergeevich AWPER lang9 2395 65.7 1.25 48.8 7108.8 1.24 87.2 0 1 1 1 1 1
+P25 Alex Sidorov Alexeevich RIFLER lang3 2458 67.1 0.81 36.1 10844.7 1.04 93.0 0 1 0 1 1 0
+P26 Alex Johnson Petrovich LURKER lang5 2587 51.2 1.04 50.4 7920.6 0.91 90.6 0 1 0 0 0 1
+P27 Alex Sidorov Alexeevich LURKER lang5 lang6 1934 75.7 1.2 57.5 9552.1 1.24 85.6 1 1 0 1 0 1
+P28 Petr Petrov Sergeevich AWPER lang9 2089 70.0 0.99 58.2 9632.0 1.18 70.9 0 0 0 1 1 0
+P29 Alex Johnson Petrovich RIFLER lang3 2378 58.3 1.2 45.8 10853.0 1.16 77.4 1 1 0 0 1 1
+P30 Ivan Sidorov Sergeevich RIFLER lang10 2361 58.9 1.11 43.2 10650.8 0.98 73.6 0 1 1 0 1 1
+P31 Alex Petrov Petrovich RIFLER lang3 2144 63.1 1.07 36.3 11389.0 1.21 77.8 1 0 1 1 0 1
+P32 Petr Smith Sergeevich AWPER lang6 lang8 2288 50.8 0.8 55.8 8831.7 1.23 76.2 1 0 1 1 1 0
+P33 Ivan Petrov Sergeevich IGL lang9 lang8 2346 59.8 0.81 54.1 7679.6 1.22 82.5 0 0 1 1 1 0
+P34 Ivan Petrov Alexeevich IGL lang4 2409 78.7 1.2 50.6 10637.8 1.13 88.4 0 0 1 0 0 1
+P35 Daniil Petrov Alexeevich AWPER lang6 lang7 2187 50.7 0.86 51.5 8138.4 1.29 72.8 0 1 0 0 0 0
+P36 Ivan Johnson Sergeevich AWPER lang5 lang4 2110 60.5 1.1 55.8 7232.0 1.13 82.7 1 1 0 0 0 1
+P37 Alex Ivanov Sergeevich RIFLER lang7 lang9 2873 63.7 1.11 37.6 9483.4 0.9 93.5 0 1 0 0 1 0
+P38 Petr Ivanov Alexeevich RIFLER lang8 lang4 2246 52.5 1.12 54.1 9655.0 0.99 71.7 0 0 0 0 0 0
+P39 Petr Johnson Alexeevich RIFLER lang10 2504 74.8 1.12 47.6 10051.7 1.21 87.4 1 1 1 1 1 0
+P40 Ivan Ivanov Petrovich LURKER lang10 lang8 2487 57.3 1.01 57.1 8770.0 1.15 90.8 1 1 0 1 1 0
+P41 Alex Petrov Alexeevich AWPER lang8 2801 52.0 1.25 44.9 7654.5 1.2 79.9 0 0 0 0 1 1
+P42 Ivan Sidorov Alexeevich RIFLER lang1 lang9 2692 54.4 0.95 54.7 7871.2 0.96 88.3 0 0 0 1 1 0
+P43 Ivan Petrov Petrovich RIFLER lang4 2034 78.9 1.23 34.1 9891.5 1.08 75.6 0 0 0 1 0 0
+P44 Nikita Sidorov Alexeevich RIFLER lang2 2379 56.5 1.1 55.0 9880.6 1.21 94.4 0 1 1 1 0 0
+P45 Ivan Ivanov Alexeevich LURKER lang4 lang2 2864 59.4 0.93 42.0 10495.3 1.15 73.2 0 0 1 1 1 1
+P46 Alex Johnson Sergeevich RIFLER lang6 2479 65.9 0.87 53.6 10463.6 0.97 94.5 1 1 0 1 1 1
+P47 Nikita Johnson Alexeevich LURKER lang1 2292 54.5 1.2 32.0 7520.4 1.03 90.2 0 0 1 0 1 1
+P48 Daniil Petrov Alexeevich AWPER lang7 lang2 2415 58.7 1.24 43.4 10650.9 1.16 76.9 0 0 0 0 0 0
+P49 Alex Petrov Petrovich LURKER lang1 2928 61.7 1.25 41.9 8731.8 1.23 77.8 0 1 1 1 1 0
+P50 Ivan Sidorov Petrovich RIFLER lang4 lang10 2931 56.2 1.23 53.1 9796.0 1.27 78.3 1 0 1 0 1 0
